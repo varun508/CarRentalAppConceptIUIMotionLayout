@@ -5,9 +5,9 @@ This is a showcase on how powerful MotionLayout is in implementing transition an
 
 Motion Layout is a wonderful tool to build transitions
 
-If you like this repo please star it :)
-
 This design is inspired by [Sina Ranjbar](https://dribbble.com/shots/9835257-CAR-RENTAL-APP-CONCEPT) 
+
+If you like this repo please star it :)
 
 To learn more about MotionLayout click [this link here from Google](https://developer.android.com/training/constraint-layout/motionlayout)
 
