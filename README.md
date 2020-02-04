@@ -13,13 +13,13 @@ To learn more about MotionLayout click [this link here from Google](https://deve
 
 ## Let's Connect
 
-[My Blog](http://nickylegnard.com/)
-
 [Instagram](https://www.instagram.com/nickyrabit/)
 
 [LinkedIn](https://www.linkedin.com/in/nicholaus-legnard-5a2a89b8/)
 
 [Twitter](https://twitter.com/NNgailo)
+
+[My Blog](http://nickylegnard.com/)
 
 ## Output
 ![alt text](https://user-images.githubusercontent.com/7089058/73719617-07ea8100-4731-11ea-877b-aed8d0553034.gif "Output of the Code, Beautiful Animation")
